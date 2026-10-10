@@ -1,4 +1,5 @@
 # Medical Image Diagnostics: Chest X-ray Classification
+Created by: Ashlesha Kathe
 
 An educational machine-learning project that fine-tunes a pretrained ResNet-18 to predict 14 potentially co-occurring findings from frontal chest X-rays in the NIH ChestX-ray14 dataset. It includes a patient-level training split, evaluation output, command-line inference, and an optional local Streamlit upload demo.
 
